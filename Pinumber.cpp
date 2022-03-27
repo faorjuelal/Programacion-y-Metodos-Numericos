@@ -1,6 +1,6 @@
 # include <iostream>
 # include <cmath>
-
+//Programa que realiza la suma de los inversos de los cuadrados 
 int main(void)
 {
   double suma = 0;
